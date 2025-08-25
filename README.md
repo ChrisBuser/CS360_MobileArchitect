@@ -1,5 +1,7 @@
 # CS360_MobileArchitect
 
+This coursework ultimately resulted in a functional Android mobile app to track inventory in a warehouse. This project brings together all skills up to this point including interpreting user needs, proposing a design, designing the architecture, developing bug free code, and maintaining persistent data using the native SQLite database.
+
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 The inventory app required the use of separate database tables for user login/passwords and storing inventory items. The app needed to feature a screen for logging in and authenticating the user and displaying inventory items. It also needed mechanisms for updating inventory and sending SMS messages when inventory levels got low. 
